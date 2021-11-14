@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/AppUI.cpp
+iostream
+-
+AppUI.h
+/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/AppUI.h
+cmake-build-debug/WrongInputException.h
+/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/WrongInputException.h
+
+/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/AppUI.h
+
+/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/WrongInputException.h
+exception
+-
+
