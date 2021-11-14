@@ -80,6 +80,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/AppUI.cpp">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/AppUI.h">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/SumAlgorithms.cpp">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/SumAlgorithms.h">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/WrongInputException.cpp">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/WrongInputException.h">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
 		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/main.cpp">
 			<Option target="DataStructuresEx01"/>
 		</Unit>

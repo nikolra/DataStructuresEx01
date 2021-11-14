@@ -1,4 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.o"
+  "CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.o"
+  "CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.o"
   "CMakeFiles/DataStructuresEx01.dir/main.cpp.o"
   "DataStructuresEx01"
   "DataStructuresEx01.pdb"

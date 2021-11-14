@@ -129,6 +129,78 @@ DataStructuresEx01/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/build
 .PHONY : DataStructuresEx01/fast
 
+AppUI.o: AppUI.cpp.o
+.PHONY : AppUI.o
+
+# target to build an object file
+AppUI.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.o
+.PHONY : AppUI.cpp.o
+
+AppUI.i: AppUI.cpp.i
+.PHONY : AppUI.i
+
+# target to preprocess a source file
+AppUI.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.i
+.PHONY : AppUI.cpp.i
+
+AppUI.s: AppUI.cpp.s
+.PHONY : AppUI.s
+
+# target to generate assembly for a file
+AppUI.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.s
+.PHONY : AppUI.cpp.s
+
+SumAlgorithms.o: SumAlgorithms.cpp.o
+.PHONY : SumAlgorithms.o
+
+# target to build an object file
+SumAlgorithms.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.o
+.PHONY : SumAlgorithms.cpp.o
+
+SumAlgorithms.i: SumAlgorithms.cpp.i
+.PHONY : SumAlgorithms.i
+
+# target to preprocess a source file
+SumAlgorithms.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.i
+.PHONY : SumAlgorithms.cpp.i
+
+SumAlgorithms.s: SumAlgorithms.cpp.s
+.PHONY : SumAlgorithms.s
+
+# target to generate assembly for a file
+SumAlgorithms.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.s
+.PHONY : SumAlgorithms.cpp.s
+
+WrongInputException.o: WrongInputException.cpp.o
+.PHONY : WrongInputException.o
+
+# target to build an object file
+WrongInputException.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.o
+.PHONY : WrongInputException.cpp.o
+
+WrongInputException.i: WrongInputException.cpp.i
+.PHONY : WrongInputException.i
+
+# target to preprocess a source file
+WrongInputException.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.i
+.PHONY : WrongInputException.cpp.i
+
+WrongInputException.s: WrongInputException.cpp.s
+.PHONY : WrongInputException.s
+
+# target to generate assembly for a file
+WrongInputException.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.s
+.PHONY : WrongInputException.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -162,6 +234,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... DataStructuresEx01"
+	@echo "... AppUI.o"
+	@echo "... AppUI.i"
+	@echo "... AppUI.s"
+	@echo "... SumAlgorithms.o"
+	@echo "... SumAlgorithms.i"
+	@echo "... SumAlgorithms.s"
+	@echo "... WrongInputException.o"
+	@echo "... WrongInputException.i"
+	@echo "... WrongInputException.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
