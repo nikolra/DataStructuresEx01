@@ -4,14 +4,34 @@
 CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.o
  /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/AppUI.cpp
  /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/AppUI.h
- /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/WrongInputException.h
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/SumAlgorithms.h
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/WrongInputException.h
+CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.o
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/ItemType.cpp
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/ItemType.h
+CMakeFiles/DataStructuresEx01.dir/Node.cpp.o
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/ItemType.h
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Node.cpp
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Node.h
+CMakeFiles/DataStructuresEx01.dir/Stack.cpp.o
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/ItemType.h
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Node.h
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Stack.cpp
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Stack.h
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/StackExceptions.h
+CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.o
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/StackExceptions.cpp
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/StackExceptions.h
 CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.o
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/ItemType.h
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Node.h
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Stack.h
  /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/SumAlgorithms.cpp
  /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/SumAlgorithms.h
 CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.o
- /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/WrongInputException.cpp
- /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/WrongInputException.h
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/WrongInputException.cpp
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/WrongInputException.h
 CMakeFiles/DataStructuresEx01.dir/main.cpp.o
  /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/AppUI.h
- /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/WrongInputException.h
+ /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/WrongInputException.h
  /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/main.cpp

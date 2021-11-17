@@ -8,9 +8,17 @@
 
 class ItemType {
 private:
-    int data;
+    int n;
+    int y;
+
 public:
-    int GetData(){ return this->data;}
+
+    ItemType(int n, int y) : n(n), y(y) {}
+    ItemType() {}
+    int GetN(){ return this -> n;}
+    int GetY(){ return this -> y;}
+    void SetN(int data) {this -> n = data;}
+    void SetY(int data) {this -> y = data;}
 };
 
 

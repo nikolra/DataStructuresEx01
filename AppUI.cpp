@@ -5,6 +5,7 @@
 #include <iostream>
 #include <fstream>
 #include "AppUI.h"
+#include "SumAlgorithms.h"
 #include "WrongInputException.h"
 
 using namespace std;
@@ -18,7 +19,13 @@ void AppUI::Run()
     checkInput(arr, size);
     int num = readInt();
 
-
+    SumAlgorithms algorithms;
+    cout << "Iterative:" << endl;
+    algorithms.LoopFunction(arr, size, num);
+    cout << endl << "Recursive:" << endl;
+    algorithms.RecFunction(arr, size, num, 0);
+    cout << endl << "Recursion implemented using stack:" << endl;
+    algorithms.RecViaStackFunction(arr, size, num, 0);
 }
 
 int AppUI::readInt()
@@ -37,14 +44,12 @@ int AppUI::readInt()
     return num;
 }
 
-bool AppUI::checkInput(int* o_Arr, int i_Size)
+void AppUI::checkInput(int* o_Arr, int i_Size)
 {
     string input;
     getline(cin, input);
     char* delim = new char(' ');
     char* token = strtok(stringToCharArray(input), delim);
-    if(token == nullptr)//to little numbers
-        throw WrongInputException("wrong input");
     for(int i = 0; i < i_Size; i++)
     {
         if(token == nullptr)//to little numbers
@@ -83,3 +88,4 @@ void AppUI::timeCount()
     myfile << " sec" << endl;
     myfile.close();
 }
+

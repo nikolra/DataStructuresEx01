@@ -15,13 +15,14 @@ private:
     Node* next;
 
 public:
-    Node():next(nullptr){}
-    Node(ItemType itemType, Node* ptr = nullptr);
-    ~Node();
+    Node(ItemType data,  Node* ptr = nullptr) : next(ptr), data(data) {}
+
+    //~Node();
     void InsertAfter(Node* nodeToInsert);
     Node* DeleteAfter();
     Node* GetNext() { return this -> next;}
     ItemType  GetData() { return this -> data;}
+    void SetData(ItemType item) {this -> data = item;}
 };
 
 

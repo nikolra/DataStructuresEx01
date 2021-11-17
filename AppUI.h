@@ -11,8 +11,11 @@ using namespace std;
 class AppUI {
 
 private:
+public:
+    AppUI();
 
-    bool checkInput(int* o_Arr, int i_Size);
+private:
+    void checkInput(int* o_Arr, int i_Size);
     char* stringToCharArray(string& s);
     int readInt();
     void timeCount();

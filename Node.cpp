@@ -4,16 +4,6 @@
 
 #include "Node.h"
 
-Node::Node(ItemType itemType, Node* ptr)
-{
-    this -> data = itemType;
-    this -> next = ptr;
-}
-
-Node::~Node()
-{
-    //delete this -> next;
-}
 
 void Node::InsertAfter(Node* nodeToInsert)
 {

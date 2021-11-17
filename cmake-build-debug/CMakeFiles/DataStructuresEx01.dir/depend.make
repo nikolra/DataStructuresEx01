@@ -4,14 +4,34 @@
 CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.o: \
  ../AppUI.cpp \
  ../AppUI.h \
- WrongInputException.h
+ ../SumAlgorithms.h \
+ ../WrongInputException.h
+CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.o: \
+ ../ItemType.cpp \
+ ../ItemType.h
+CMakeFiles/DataStructuresEx01.dir/Node.cpp.o: \
+ ../ItemType.h \
+ ../Node.cpp \
+ ../Node.h
+CMakeFiles/DataStructuresEx01.dir/Stack.cpp.o: \
+ ../ItemType.h \
+ ../Node.h \
+ ../Stack.cpp \
+ ../Stack.h \
+ ../StackExceptions.h
+CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.o: \
+ ../StackExceptions.cpp \
+ ../StackExceptions.h
 CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.o: \
+ ../ItemType.h \
+ ../Node.h \
+ ../Stack.h \
  ../SumAlgorithms.cpp \
  ../SumAlgorithms.h
 CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.o: \
- WrongInputException.cpp \
- WrongInputException.h
+ ../WrongInputException.cpp \
+ ../WrongInputException.h
 CMakeFiles/DataStructuresEx01.dir/main.cpp.o: \
  ../AppUI.h \
- WrongInputException.h \
+ ../WrongInputException.h \
  ../main.cpp

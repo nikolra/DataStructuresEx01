@@ -12,8 +12,9 @@ class SumAlgorithms {
 private:
 
 public:
-    void loopFunction(int * arr, size_t size, int x);
-
+    void LoopFunction(int * arr, int size, int x);
+    void RecFunction(int* arr, int n, int x, int y);
+    void RecViaStackFunction(int* arr, int n, int x, int y);
 };
 
 
