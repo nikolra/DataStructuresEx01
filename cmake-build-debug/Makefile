@@ -153,6 +153,102 @@ AppUI.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.s
 .PHONY : AppUI.cpp.s
 
+ItemType.o: ItemType.cpp.o
+.PHONY : ItemType.o
+
+# target to build an object file
+ItemType.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.o
+.PHONY : ItemType.cpp.o
+
+ItemType.i: ItemType.cpp.i
+.PHONY : ItemType.i
+
+# target to preprocess a source file
+ItemType.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.i
+.PHONY : ItemType.cpp.i
+
+ItemType.s: ItemType.cpp.s
+.PHONY : ItemType.s
+
+# target to generate assembly for a file
+ItemType.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.s
+.PHONY : ItemType.cpp.s
+
+Node.o: Node.cpp.o
+.PHONY : Node.o
+
+# target to build an object file
+Node.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/Node.cpp.o
+.PHONY : Node.cpp.o
+
+Node.i: Node.cpp.i
+.PHONY : Node.i
+
+# target to preprocess a source file
+Node.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/Node.cpp.i
+.PHONY : Node.cpp.i
+
+Node.s: Node.cpp.s
+.PHONY : Node.s
+
+# target to generate assembly for a file
+Node.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/Node.cpp.s
+.PHONY : Node.cpp.s
+
+Stack.o: Stack.cpp.o
+.PHONY : Stack.o
+
+# target to build an object file
+Stack.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/Stack.cpp.o
+.PHONY : Stack.cpp.o
+
+Stack.i: Stack.cpp.i
+.PHONY : Stack.i
+
+# target to preprocess a source file
+Stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/Stack.cpp.i
+.PHONY : Stack.cpp.i
+
+Stack.s: Stack.cpp.s
+.PHONY : Stack.s
+
+# target to generate assembly for a file
+Stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/Stack.cpp.s
+.PHONY : Stack.cpp.s
+
+StackExceptions.o: StackExceptions.cpp.o
+.PHONY : StackExceptions.o
+
+# target to build an object file
+StackExceptions.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.o
+.PHONY : StackExceptions.cpp.o
+
+StackExceptions.i: StackExceptions.cpp.i
+.PHONY : StackExceptions.i
+
+# target to preprocess a source file
+StackExceptions.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.i
+.PHONY : StackExceptions.cpp.i
+
+StackExceptions.s: StackExceptions.cpp.s
+.PHONY : StackExceptions.s
+
+# target to generate assembly for a file
+StackExceptions.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.s
+.PHONY : StackExceptions.cpp.s
+
 SumAlgorithms.o: SumAlgorithms.cpp.o
 .PHONY : SumAlgorithms.o
 
@@ -237,6 +333,18 @@ help:
 	@echo "... AppUI.o"
 	@echo "... AppUI.i"
 	@echo "... AppUI.s"
+	@echo "... ItemType.o"
+	@echo "... ItemType.i"
+	@echo "... ItemType.s"
+	@echo "... Node.o"
+	@echo "... Node.i"
+	@echo "... Node.s"
+	@echo "... Stack.o"
+	@echo "... Stack.i"
+	@echo "... Stack.s"
+	@echo "... StackExceptions.o"
+	@echo "... StackExceptions.i"
+	@echo "... StackExceptions.s"
 	@echo "... SumAlgorithms.o"
 	@echo "... SumAlgorithms.i"
 	@echo "... SumAlgorithms.s"

@@ -86,16 +86,40 @@
 		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/AppUI.h">
 			<Option target="DataStructuresEx01"/>
 		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/ItemType.cpp">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/ItemType.h">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Node.cpp">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Node.h">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Stack.cpp">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Stack.h">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/StackExceptions.cpp">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/StackExceptions.h">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
 		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/SumAlgorithms.cpp">
 			<Option target="DataStructuresEx01"/>
 		</Unit>
 		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/SumAlgorithms.h">
 			<Option target="DataStructuresEx01"/>
 		</Unit>
-		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/WrongInputException.cpp">
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/WrongInputException.cpp">
 			<Option target="DataStructuresEx01"/>
 		</Unit>
-		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/WrongInputException.h">
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/WrongInputException.h">
 			<Option target="DataStructuresEx01"/>
 		</Unit>
 		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/main.cpp">

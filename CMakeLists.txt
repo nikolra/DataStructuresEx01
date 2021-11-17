@@ -3,4 +3,4 @@ project(DataStructuresEx01)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructuresEx01 main.cpp SumAlgorithms.cpp SumAlgorithms.h AppUI.cpp AppUI.h cmake-build-debug/WrongInputException.cpp cmake-build-debug/WrongInputException.h)
+add_executable(DataStructuresEx01 main.cpp SumAlgorithms.cpp SumAlgorithms.h AppUI.cpp AppUI.h WrongInputException.cpp WrongInputException.h Stack.cpp Stack.h Node.cpp Node.h ItemType.cpp ItemType.h StackExceptions.cpp StackExceptions.h)

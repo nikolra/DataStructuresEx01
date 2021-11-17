@@ -1,6 +1,6 @@
 #include <iostream>
 #include "AppUI.h"
-#include "cmake-build-debug/WrongInputException.h"
+#include "WrongInputException.h"
 
 int main() {
     AppUI app;

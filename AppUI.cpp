@@ -5,7 +5,7 @@
 #include <iostream>
 #include <fstream>
 #include "AppUI.h"
-#include "cmake-build-debug/WrongInputException.h"
+#include "WrongInputException.h"
 
 using namespace std;
 

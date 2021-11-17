@@ -6,11 +6,13 @@
 #define DATASTRUCTURESEX01_SUMALGORITHMS_H
 
 
+#include <cwchar>
+
 class SumAlgorithms {
 private:
 
 public:
-    
+    void loopFunction(int * arr, size_t size, int x);
 
 };
 
