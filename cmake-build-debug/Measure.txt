@@ -1,0 +1,3 @@
+Time taken by function Iterative is :0.000015 sec
+Time taken by function Recursive is :0.000005542 sec
+Time taken by function Recursion implemented using stack is :0.000016292 sec
