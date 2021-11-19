@@ -1,10 +1,11 @@
 file(REMOVE_RECURSE
   "CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.o"
-  "CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.o"
+  "CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.o"
   "CMakeFiles/DataStructuresEx01.dir/Node.cpp.o"
+  "CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.o"
+  "CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.o"
   "CMakeFiles/DataStructuresEx01.dir/Stack.cpp.o"
   "CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.o"
-  "CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.o"
   "CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.o"
   "CMakeFiles/DataStructuresEx01.dir/main.cpp.o"
   "DataStructuresEx01"

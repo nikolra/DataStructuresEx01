@@ -79,22 +79,9 @@ CMakeFiles/DataStructuresEx01.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructuresEx01.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/main.cpp -o CMakeFiles/DataStructuresEx01.dir/main.cpp.s
 
-CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.o: CMakeFiles/DataStructuresEx01.dir/flags.make
-CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.o: ../SumAlgorithms.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.o -c /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/SumAlgorithms.cpp
-
-CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/SumAlgorithms.cpp > CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.i
-
-CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/SumAlgorithms.cpp -o CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.s
-
 CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.o: CMakeFiles/DataStructuresEx01.dir/flags.make
 CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.o: ../AppUI.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.o -c /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/AppUI.cpp
 
 CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.i: cmake_force
@@ -107,7 +94,7 @@ CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.s: cmake_force
 
 CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.o: CMakeFiles/DataStructuresEx01.dir/flags.make
 CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.o: ../WrongInputException.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.o -c /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/WrongInputException.cpp
 
 CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.i: cmake_force
@@ -120,7 +107,7 @@ CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.s: cmake_force
 
 CMakeFiles/DataStructuresEx01.dir/Stack.cpp.o: CMakeFiles/DataStructuresEx01.dir/flags.make
 CMakeFiles/DataStructuresEx01.dir/Stack.cpp.o: ../Stack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/DataStructuresEx01.dir/Stack.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/DataStructuresEx01.dir/Stack.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructuresEx01.dir/Stack.cpp.o -c /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Stack.cpp
 
 CMakeFiles/DataStructuresEx01.dir/Stack.cpp.i: cmake_force
@@ -133,7 +120,7 @@ CMakeFiles/DataStructuresEx01.dir/Stack.cpp.s: cmake_force
 
 CMakeFiles/DataStructuresEx01.dir/Node.cpp.o: CMakeFiles/DataStructuresEx01.dir/flags.make
 CMakeFiles/DataStructuresEx01.dir/Node.cpp.o: ../Node.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/DataStructuresEx01.dir/Node.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/DataStructuresEx01.dir/Node.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructuresEx01.dir/Node.cpp.o -c /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Node.cpp
 
 CMakeFiles/DataStructuresEx01.dir/Node.cpp.i: cmake_force
@@ -144,22 +131,9 @@ CMakeFiles/DataStructuresEx01.dir/Node.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructuresEx01.dir/Node.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Node.cpp -o CMakeFiles/DataStructuresEx01.dir/Node.cpp.s
 
-CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.o: CMakeFiles/DataStructuresEx01.dir/flags.make
-CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.o: ../ItemType.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.o -c /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/ItemType.cpp
-
-CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/ItemType.cpp > CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.i
-
-CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/ItemType.cpp -o CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.s
-
 CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.o: CMakeFiles/DataStructuresEx01.dir/flags.make
 CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.o: ../StackExceptions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.o -c /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/StackExceptions.cpp
 
 CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.i: cmake_force
@@ -170,31 +144,72 @@ CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/StackExceptions.cpp -o CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.s
 
+CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.o: CMakeFiles/DataStructuresEx01.dir/flags.make
+CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.o: ../LoopAlgorithm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.o -c /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/LoopAlgorithm.cpp
+
+CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/LoopAlgorithm.cpp > CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.i
+
+CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/LoopAlgorithm.cpp -o CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.s
+
+CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.o: CMakeFiles/DataStructuresEx01.dir/flags.make
+CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.o: ../RecAlgorithm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.o -c /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/RecAlgorithm.cpp
+
+CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/RecAlgorithm.cpp > CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.i
+
+CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/RecAlgorithm.cpp -o CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.s
+
+CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.o: CMakeFiles/DataStructuresEx01.dir/flags.make
+CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.o: ../RecViaStackAlgorithm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.o -c /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/RecViaStackAlgorithm.cpp
+
+CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/RecViaStackAlgorithm.cpp > CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.i
+
+CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nikolrafalovich/CLionProjects/DataStructuresEx01/RecViaStackAlgorithm.cpp -o CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.s
+
 # Object files for target DataStructuresEx01
 DataStructuresEx01_OBJECTS = \
 "CMakeFiles/DataStructuresEx01.dir/main.cpp.o" \
-"CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.o" \
 "CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.o" \
 "CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.o" \
 "CMakeFiles/DataStructuresEx01.dir/Stack.cpp.o" \
 "CMakeFiles/DataStructuresEx01.dir/Node.cpp.o" \
-"CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.o" \
-"CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.o"
+"CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.o" \
+"CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.o" \
+"CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.o" \
+"CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.o"
 
 # External object files for target DataStructuresEx01
 DataStructuresEx01_EXTERNAL_OBJECTS =
 
 DataStructuresEx01: CMakeFiles/DataStructuresEx01.dir/main.cpp.o
-DataStructuresEx01: CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.o
 DataStructuresEx01: CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.o
 DataStructuresEx01: CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.o
 DataStructuresEx01: CMakeFiles/DataStructuresEx01.dir/Stack.cpp.o
 DataStructuresEx01: CMakeFiles/DataStructuresEx01.dir/Node.cpp.o
-DataStructuresEx01: CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.o
 DataStructuresEx01: CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.o
+DataStructuresEx01: CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.o
+DataStructuresEx01: CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.o
+DataStructuresEx01: CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.o
 DataStructuresEx01: CMakeFiles/DataStructuresEx01.dir/build.make
 DataStructuresEx01: CMakeFiles/DataStructuresEx01.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable DataStructuresEx01"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable DataStructuresEx01"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/DataStructuresEx01.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

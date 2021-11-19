@@ -1,6 +1,4 @@
-//
-// Created by Nikol Rafalovich on 17/11/2021.
-//
+
 
 #ifndef DATASTRUCTURESEX01_NODE_H
 #define DATASTRUCTURESEX01_NODE_H
@@ -26,4 +24,4 @@ public:
 };
 
 
-#endif //DATASTRUCTURESEX01_NODE_H
+#endif DATASTRUCTURESEX01_NODE_H

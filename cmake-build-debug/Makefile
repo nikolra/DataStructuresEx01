@@ -153,29 +153,29 @@ AppUI.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.s
 .PHONY : AppUI.cpp.s
 
-ItemType.o: ItemType.cpp.o
-.PHONY : ItemType.o
+LoopAlgorithm.o: LoopAlgorithm.cpp.o
+.PHONY : LoopAlgorithm.o
 
 # target to build an object file
-ItemType.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.o
-.PHONY : ItemType.cpp.o
+LoopAlgorithm.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.o
+.PHONY : LoopAlgorithm.cpp.o
 
-ItemType.i: ItemType.cpp.i
-.PHONY : ItemType.i
+LoopAlgorithm.i: LoopAlgorithm.cpp.i
+.PHONY : LoopAlgorithm.i
 
 # target to preprocess a source file
-ItemType.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.i
-.PHONY : ItemType.cpp.i
+LoopAlgorithm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.i
+.PHONY : LoopAlgorithm.cpp.i
 
-ItemType.s: ItemType.cpp.s
-.PHONY : ItemType.s
+LoopAlgorithm.s: LoopAlgorithm.cpp.s
+.PHONY : LoopAlgorithm.s
 
 # target to generate assembly for a file
-ItemType.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.s
-.PHONY : ItemType.cpp.s
+LoopAlgorithm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.s
+.PHONY : LoopAlgorithm.cpp.s
 
 Node.o: Node.cpp.o
 .PHONY : Node.o
@@ -200,6 +200,54 @@ Node.s: Node.cpp.s
 Node.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/Node.cpp.s
 .PHONY : Node.cpp.s
+
+RecAlgorithm.o: RecAlgorithm.cpp.o
+.PHONY : RecAlgorithm.o
+
+# target to build an object file
+RecAlgorithm.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.o
+.PHONY : RecAlgorithm.cpp.o
+
+RecAlgorithm.i: RecAlgorithm.cpp.i
+.PHONY : RecAlgorithm.i
+
+# target to preprocess a source file
+RecAlgorithm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.i
+.PHONY : RecAlgorithm.cpp.i
+
+RecAlgorithm.s: RecAlgorithm.cpp.s
+.PHONY : RecAlgorithm.s
+
+# target to generate assembly for a file
+RecAlgorithm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.s
+.PHONY : RecAlgorithm.cpp.s
+
+RecViaStackAlgorithm.o: RecViaStackAlgorithm.cpp.o
+.PHONY : RecViaStackAlgorithm.o
+
+# target to build an object file
+RecViaStackAlgorithm.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.o
+.PHONY : RecViaStackAlgorithm.cpp.o
+
+RecViaStackAlgorithm.i: RecViaStackAlgorithm.cpp.i
+.PHONY : RecViaStackAlgorithm.i
+
+# target to preprocess a source file
+RecViaStackAlgorithm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.i
+.PHONY : RecViaStackAlgorithm.cpp.i
+
+RecViaStackAlgorithm.s: RecViaStackAlgorithm.cpp.s
+.PHONY : RecViaStackAlgorithm.s
+
+# target to generate assembly for a file
+RecViaStackAlgorithm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.s
+.PHONY : RecViaStackAlgorithm.cpp.s
 
 Stack.o: Stack.cpp.o
 .PHONY : Stack.o
@@ -248,30 +296,6 @@ StackExceptions.s: StackExceptions.cpp.s
 StackExceptions.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.s
 .PHONY : StackExceptions.cpp.s
-
-SumAlgorithms.o: SumAlgorithms.cpp.o
-.PHONY : SumAlgorithms.o
-
-# target to build an object file
-SumAlgorithms.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.o
-.PHONY : SumAlgorithms.cpp.o
-
-SumAlgorithms.i: SumAlgorithms.cpp.i
-.PHONY : SumAlgorithms.i
-
-# target to preprocess a source file
-SumAlgorithms.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.i
-.PHONY : SumAlgorithms.cpp.i
-
-SumAlgorithms.s: SumAlgorithms.cpp.s
-.PHONY : SumAlgorithms.s
-
-# target to generate assembly for a file
-SumAlgorithms.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructuresEx01.dir/build.make CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.s
-.PHONY : SumAlgorithms.cpp.s
 
 WrongInputException.o: WrongInputException.cpp.o
 .PHONY : WrongInputException.o
@@ -333,21 +357,24 @@ help:
 	@echo "... AppUI.o"
 	@echo "... AppUI.i"
 	@echo "... AppUI.s"
-	@echo "... ItemType.o"
-	@echo "... ItemType.i"
-	@echo "... ItemType.s"
+	@echo "... LoopAlgorithm.o"
+	@echo "... LoopAlgorithm.i"
+	@echo "... LoopAlgorithm.s"
 	@echo "... Node.o"
 	@echo "... Node.i"
 	@echo "... Node.s"
+	@echo "... RecAlgorithm.o"
+	@echo "... RecAlgorithm.i"
+	@echo "... RecAlgorithm.s"
+	@echo "... RecViaStackAlgorithm.o"
+	@echo "... RecViaStackAlgorithm.i"
+	@echo "... RecViaStackAlgorithm.s"
 	@echo "... Stack.o"
 	@echo "... Stack.i"
 	@echo "... Stack.s"
 	@echo "... StackExceptions.o"
 	@echo "... StackExceptions.i"
 	@echo "... StackExceptions.s"
-	@echo "... SumAlgorithms.o"
-	@echo "... SumAlgorithms.i"
-	@echo "... SumAlgorithms.s"
 	@echo "... WrongInputException.o"
 	@echo "... WrongInputException.i"
 	@echo "... WrongInputException.s"

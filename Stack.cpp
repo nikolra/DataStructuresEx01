@@ -1,9 +1,6 @@
-//
-// Created by Nikol Rafalovich on 17/11/2021.
-//
 
 #include "Stack.h"
-#include "StackExceptions.h"
+
 Stack::Stack()
 {
     this -> top = nullptr;

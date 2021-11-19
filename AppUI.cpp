@@ -1,12 +1,4 @@
-//
-// Created by Nikol Rafalovich on 14/11/2021.
-//
-
-#include <iostream>
-#include <fstream>
 #include "AppUI.h"
-#include "SumAlgorithms.h"
-#include "WrongInputException.h"
 
 using namespace std;
 
@@ -19,13 +11,28 @@ void AppUI::Run()
     checkInput(arr, size);
     int num = readInt();
 
-    SumAlgorithms algorithms;
-    cout << "Iterative:" << endl;
-    algorithms.LoopFunction(arr, size, num);
-    cout << endl << "Recursive:" << endl;
-    algorithms.RecFunction(arr, size, num, 0);
-    cout << endl << "Recursion implemented using stack:" << endl;
-    algorithms.RecViaStackFunction(arr, size, num, 0);
+    Algorithm* algorithms [3];
+    algorithms[0] = new LoopAlgorithm();
+    algorithms[1] = new RecAlgorithm();
+    algorithms[2] = new RecViaStackAlgorithm();
+
+    ofstream myFile("Measure.txt"); // The name of the file
+
+    for (int i = 0; i < 3; ++i) {
+        cout << algorithms[i] -> GetName() << ":" << endl;
+        auto start = chrono::high_resolution_clock::now();
+        ios_base::sync_with_stdio(false);
+        algorithms[i] -> RunAlgorithm(arr, size, num, 0);
+        auto end = chrono::high_resolution_clock::now();
+        // Calculating total time taken by the program.
+        double time_taken = chrono::duration_cast<chrono::nanoseconds>(end - start).count();
+        time_taken *= 1e-9;
+        myFile << "Time taken by function " << algorithms[i] -> GetName() << " is :" << fixed << time_taken << setprecision(9);
+        myFile << " sec" << endl;
+
+        cout << endl;
+    }
+    myFile.close();
 }
 
 int AppUI::readInt()
@@ -65,11 +72,13 @@ void AppUI::checkInput(int* o_Arr, int i_Size)
 
 char* AppUI::stringToCharArray(string& s)
 {
-    char* res = new char[s.length()];
+    char* res = new char[s.length() + 1];
    for(int i = 0; i < s.length(); i++)
    {
        res[i] = s[i];
    }
+
+   res[s.length()] = '\0';
 
    return res;
 }

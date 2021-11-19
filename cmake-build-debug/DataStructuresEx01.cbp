@@ -80,22 +80,40 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Algorithm.h">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
 		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/AppUI.cpp">
 			<Option target="DataStructuresEx01"/>
 		</Unit>
 		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/AppUI.h">
 			<Option target="DataStructuresEx01"/>
 		</Unit>
-		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/ItemType.cpp">
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/ItemType.h">
 			<Option target="DataStructuresEx01"/>
 		</Unit>
-		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/ItemType.h">
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/LoopAlgorithm.cpp">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/LoopAlgorithm.h">
 			<Option target="DataStructuresEx01"/>
 		</Unit>
 		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Node.cpp">
 			<Option target="DataStructuresEx01"/>
 		</Unit>
 		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Node.h">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/RecAlgorithm.cpp">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/RecAlgorithm.h">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/RecViaStackAlgorithm.cpp">
+			<Option target="DataStructuresEx01"/>
+		</Unit>
+		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/RecViaStackAlgorithm.h">
 			<Option target="DataStructuresEx01"/>
 		</Unit>
 		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Stack.cpp">
@@ -108,12 +126,6 @@
 			<Option target="DataStructuresEx01"/>
 		</Unit>
 		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/StackExceptions.h">
-			<Option target="DataStructuresEx01"/>
-		</Unit>
-		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/SumAlgorithms.cpp">
-			<Option target="DataStructuresEx01"/>
-		</Unit>
-		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/SumAlgorithms.h">
 			<Option target="DataStructuresEx01"/>
 		</Unit>
 		<Unit filename="/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/WrongInputException.cpp">

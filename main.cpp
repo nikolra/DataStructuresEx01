@@ -1,6 +1,4 @@
-#include <iostream>
 #include "AppUI.h"
-#include "WrongInputException.h"
 
 int main() {
     AppUI app;

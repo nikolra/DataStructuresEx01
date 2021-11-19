@@ -1,6 +1,3 @@
-//
-// Created by Nikol Rafalovich on 17/11/2021.
-//
 
 #ifndef DATASTRUCTURESEX01_ITEMTYPE_H
 #define DATASTRUCTURESEX01_ITEMTYPE_H
@@ -22,4 +19,4 @@ public:
 };
 
 
-#endif //DATASTRUCTURESEX01_ITEMTYPE_H
+#endif DATASTRUCTURESEX01_ITEMTYPE_H

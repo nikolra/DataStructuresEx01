@@ -1,12 +1,10 @@
-//
-// Created by Nikol Rafalovich on 17/11/2021.
-//
 
 #ifndef DATASTRUCTURESEX01_STACK_H
 #define DATASTRUCTURESEX01_STACK_H
 
 
 #include "Node.h"
+#include "StackExceptions.h"
 
 class Stack {
 private:
@@ -23,4 +21,4 @@ public:
 };
 
 
-#endif //DATASTRUCTURESEX01_STACK_H
+#endif DATASTRUCTURESEX01_STACK_H

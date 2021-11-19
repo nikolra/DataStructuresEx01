@@ -9,11 +9,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/AppUI.cpp" "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles/DataStructuresEx01.dir/AppUI.cpp.o"
-  "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/ItemType.cpp" "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles/DataStructuresEx01.dir/ItemType.cpp.o"
+  "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/LoopAlgorithm.cpp" "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles/DataStructuresEx01.dir/LoopAlgorithm.cpp.o"
   "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Node.cpp" "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles/DataStructuresEx01.dir/Node.cpp.o"
+  "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/RecAlgorithm.cpp" "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles/DataStructuresEx01.dir/RecAlgorithm.cpp.o"
+  "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/RecViaStackAlgorithm.cpp" "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles/DataStructuresEx01.dir/RecViaStackAlgorithm.cpp.o"
   "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/Stack.cpp" "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles/DataStructuresEx01.dir/Stack.cpp.o"
   "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/StackExceptions.cpp" "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles/DataStructuresEx01.dir/StackExceptions.cpp.o"
-  "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/SumAlgorithms.cpp" "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles/DataStructuresEx01.dir/SumAlgorithms.cpp.o"
   "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/WrongInputException.cpp" "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles/DataStructuresEx01.dir/WrongInputException.cpp.o"
   "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/main.cpp" "/Users/nikolrafalovich/CLionProjects/DataStructuresEx01/cmake-build-debug/CMakeFiles/DataStructuresEx01.dir/main.cpp.o"
   )
